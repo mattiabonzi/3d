@@ -1,4 +1,4 @@
-# Repository modelli 3d
+# Repository modelli 3d
 - gcode: contiene il gcode pronto da stamapre
 - source: contiene i file sorgenti (f3d o altri)
 - stl: contiene i file stl
