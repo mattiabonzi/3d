@@ -5,4 +5,4 @@
 
 
 # Coda di stampa
-Su [project](https://github.com/mattiabonzi/3d/projects) è disponibile la coda di stampa con tutti i modelli in attesa di essere modellati/stampati
+Su [project](https://github.com/mattiabonzi/3d/projects/1) è disponibile la coda di stampa con tutti i modelli in attesa di essere modellati/stampati
